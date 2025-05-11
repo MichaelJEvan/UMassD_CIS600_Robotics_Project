@@ -5,8 +5,8 @@
 
 ### Project:
 #### Design & fabricate a custom robotic platform
-#### Develop robotic control platform software for manual & autononomous navigation 
-#### Capture sensor and manual control 
+#### Develop robotic control software for manual & autononomous navigation 
+#### Capture sensor and manual control input data for creating Machine Learning Algorithm 
 #### Develop Machine Learning Algorithm for robotic software integration & autonomous navigation
 
 ### Project Files:
