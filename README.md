@@ -1,11 +1,13 @@
 # Michael J Evan
-University of Massachusetts Dartmouth
-Graduate Department of Computer Science
-CIS 600 Masters Project
+## University of Massachusetts Dartmouth
+## Graduate Department of Computer Science
+## CIS 600 Masters Project
 
-Project:
-Fab
+### Project:
+Fabricate a custom robotic platform
+Utilize Python 3 for all aspects of the robotic projects code
 
-All project code is written utilizing Python 3
+
+
 
 ![Robot Photo](image/Robot_Photo.png)
