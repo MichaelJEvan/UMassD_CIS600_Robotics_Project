@@ -17,5 +17,5 @@
 ##### sensor_readings.py - Independent python script for capture of sensor data. Utiliazed by both manual & autonomous code
 
 ![Robot Photo](image/Robot_Photo.png)
-![Repo Image](image/Robot_Photo.png)
+
 
