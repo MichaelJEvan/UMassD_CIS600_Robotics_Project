@@ -8,4 +8,4 @@ Utilize Machine Learning to test autonomous robotics.
 
 All project code is written utilizing Python 3
 
-image/Robot_Photo.png
+![Robot Photo](image/Robot_Photo.png)
