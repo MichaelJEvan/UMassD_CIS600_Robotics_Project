@@ -6,8 +6,8 @@
 ### Project:
 #### Design & fabricate a custom robotic platform
 #### Develop robotic control software for manual & autononomous navigation 
-#### Capture sensor and manual control input data
-#### Develop Machine Learning Algorithm for robotic software integration & autonomous navigation
+#### Software developement for capture of sensor and manual controller input data
+#### Software development of Machine Learning Algorithms for robotic software / hardware integration for an autonomous navigation platform
 
 ### Project Files:
 ##### Robotic_Mech_Drawings.pdf - contains all CAD files for robotic chassis design. Created in Autodesk Fusion 360 for the robotic platform
