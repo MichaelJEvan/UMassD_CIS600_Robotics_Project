@@ -1,7 +1,7 @@
 # Michael J Evan
 ## University of Massachusetts Dartmouth
 ## Graduate Department of Computer Science
-## CIS 600 Masters Project / Spring 2025
+## CIS-600 Master's Project / Spring 2025
 
 ### Project:
 #### Design & fabricate a custom robotic platform
